@@ -14,8 +14,8 @@
 Final-year **Electronics & Computer Science** student at **KIIT**, based in Kolkata.
 I like working where hardware meets software — currently teaching microcontrollers to think. 🧠⚡
 
-- 🔌 Building things that **sense, think, and connect** — no cloud required
-- 🌱 Learning more about **on-device ML** and **real-time systems**
+-  Building things that **sense, think, and connect** — no cloud required
+-  Learning more about **on-device ML** and **real-time systems**
 - 🐱 Yes, the cat stays.
 
 ## 🛠️ Tech I play with
