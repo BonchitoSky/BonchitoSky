@@ -77,6 +77,8 @@ I like working where hardware meets software — currently teaching microcontrol
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupankar-dutta)
+[![Resume](https://img.shields.io/badge/Resume-PDF-79C0FF?style=for-the-badge&logo=readdotcv&logoColor=white)](https://bonchitosky.github.io/MyResume.pdf)
+[![Website](https://img.shields.io/badge/Website-bonchitosky.github.io-6E40C9?style=for-the-badge&logo=githubpages&logoColor=white)](https://bonchitosky.github.io/)
 
 *ᓚ₍ ^. .^₎ thanks for stopping by — leave a star if something caught your eye*
 
