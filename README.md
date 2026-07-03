@@ -53,8 +53,8 @@ I like working where hardware meets software — currently teaching microcontrol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BonchitoSky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonchitoSky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BonchitoSky&theme=tokyonight" alt="GitHub stats" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BonchitoSky&theme=tokyonight" alt="Languages by repo" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=BonchitoSky&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
