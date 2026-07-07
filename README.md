@@ -49,6 +49,15 @@ I like working where hardware meets software — currently teaching microcontrol
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🚀 Featured Projects
+
+| Project | What it is |
+|---|---|
+| [⚡ Fork & Clone](https://github.com/BonchitoSky/fork-clone) | One-click GitHub fork + local `git clone` — Chrome MV3 extension driving a Windows native-messaging companion |
+| [Edge AI Anomaly Detection](https://github.com/BonchitoSky/edge-ai-anomaly-detection) | Real-time vibration anomaly detection on ESP32 — LSTM autoencoder, int8 TFLite Micro, live dashboard |
+| [CookMind AI](https://github.com/BonchitoSky/CookMind-AI) | Full-stack AI cooking assistant — React, FastAPI, PostgreSQL, OpenAI API, Dockerized |
+| [TheRUPOgate](https://github.com/BonchitoSky/TheRUPOgate) | Node.js microservices API gateway — JWT auth, Redis rate limiting, live SSE monitoring |
+
 ## 📊 Stats
 
 <div align="center">
